@@ -9,19 +9,26 @@ body {
     color: yellow;
     text-align: center;
 }
+h1.title_wip {
+    font-size: 4vw;
+}
+h3.title_wip {
+    font-size: 2vw;
+}
 p.image_wip{
     text-align: center;
     padding-top: 2%;
     padding-bottom: 5%;
 }
-img.image_wip{
-    width: 40%;
+img.image_wip {
+    width: 40vw;
     height: inherit;
 }
 p.info {
     color: yellow;
     text-align: center;
     padding-bottom: 2%;
+    font-size: 1vw;
 }
 
 a.link {
