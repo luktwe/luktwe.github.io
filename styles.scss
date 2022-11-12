@@ -1,4 +1,4 @@
-/* CSS FILE FOR index.html */
+/* SCSS FILE FOR index.html */
 * {
     font-family: monospace;
 }
@@ -6,7 +6,7 @@ body {
     background-color: rgba(0, 0, 0, 0.89);
 }
 .title_wip {
-    color: yellow;
+    color: rgb(236, 236, 78);
     text-align: center;
 }
 h1.title_wip {
@@ -21,11 +21,11 @@ p.image_wip{
     padding-bottom: 5%;
 }
 img.image_wip {
-    width: 40vw;
+    width: 45vw;
     height: inherit;
 }
 p.info {
-    color: yellow;
+    color: rgb(236, 236, 78);
     text-align: center;
     padding-bottom: 2%;
     font-size: 1vw;
